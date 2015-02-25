@@ -1,0 +1,48 @@
+           0 23 Feb 2015 17:31:08,291 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- Start nekomud: Mon Feb 23 17:31:08 MST 2015 --------
+         693 23 Feb 2015 17:31:08,984 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Entering [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: args = {java.io.PrintWriter@4ceafb71}
+         693 23 Feb 2015 17:31:08,984 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Exiting [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: result = null
+         693 23 Feb 2015 17:31:08,984 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- End nekomud: Mon Feb 23 17:31:08 MST 2015 ----------
+         696 23 Feb 2015 17:31:08,987 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- Start nekomud: Mon Feb 23 17:31:08 MST 2015 --------
+         854 23 Feb 2015 17:31:09,145 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Entering [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: args = {java.io.PrintWriter@7a4fe91e}
+         854 23 Feb 2015 17:31:09,145 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Exiting [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: result = null
+         854 23 Feb 2015 17:31:09,145 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- End nekomud: Mon Feb 23 17:31:09 MST 2015 ----------
+         858 23 Feb 2015 17:31:09,149 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- Start nekomud: Mon Feb 23 17:31:09 MST 2015 --------
+        1057 23 Feb 2015 17:31:09,348 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Entering [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: args = {java.io.PrintWriter@2180b22e}
+        1057 23 Feb 2015 17:31:09,348 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Exiting [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: result = null
+        1058 23 Feb 2015 17:31:09,349 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- End nekomud: Mon Feb 23 17:31:09 MST 2015 ----------
+        1146 23 Feb 2015 17:31:09,437 [main] DEBUG freemarker.cache  - Could not find template in cache, creating new one; id=[helloNeko.ftl[en_US,UTF-8,parsed] ]
+        1148 23 Feb 2015 17:31:09,439 [main] DEBUG freemarker.cache  - Compiling FreeMarker template helloNeko.ftl[en_US,UTF-8,parsed]  from /Users/emanalharbi/Desktop/nekomud/trunk/template/helloNeko.ftl
+         344 23 Feb 2015 17:31:42,535 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- Start nekomud: Mon Feb 23 17:31:42 MST 2015 --------
+         534 23 Feb 2015 17:31:42,725 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- End nekomud: Mon Feb 23 17:31:42 MST 2015 ----------
+         544 23 Feb 2015 17:31:42,735 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- Start nekomud: Mon Feb 23 17:31:42 MST 2015 --------
+         680 23 Feb 2015 17:31:42,871 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- End nekomud: Mon Feb 23 17:31:42 MST 2015 ----------
+         684 23 Feb 2015 17:31:42,875 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- Start nekomud: Mon Feb 23 17:31:42 MST 2015 --------
+         804 23 Feb 2015 17:31:42,995 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- End nekomud: Mon Feb 23 17:31:42 MST 2015 ----------
+           0 23 Feb 2015 17:32:11,198 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- Start nekomud: Mon Feb 23 17:32:11 MST 2015 --------
+         700 23 Feb 2015 17:32:11,898 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Entering [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: args = {java.io.PrintWriter@18f6559}
+         701 23 Feb 2015 17:32:11,899 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Exiting [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: result = null
+         701 23 Feb 2015 17:32:11,899 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- End nekomud: Mon Feb 23 17:32:11 MST 2015 ----------
+         704 23 Feb 2015 17:32:11,902 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- Start nekomud: Mon Feb 23 17:32:11 MST 2015 --------
+         850 23 Feb 2015 17:32:12,048 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Entering [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: args = {java.io.PrintWriter@26c1186f}
+         850 23 Feb 2015 17:32:12,048 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Exiting [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: result = null
+         850 23 Feb 2015 17:32:12,048 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- End nekomud: Mon Feb 23 17:32:12 MST 2015 ----------
+         855 23 Feb 2015 17:32:12,053 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- Start nekomud: Mon Feb 23 17:32:12 MST 2015 --------
+        1052 23 Feb 2015 17:32:12,250 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Entering [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: args = {java.io.PrintWriter@6545d2}
+        1052 23 Feb 2015 17:32:12,250 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Exiting [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: result = null
+        1052 23 Feb 2015 17:32:12,250 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- End nekomud: Mon Feb 23 17:32:12 MST 2015 ----------
+        1109 23 Feb 2015 17:32:12,307 [main] DEBUG freemarker.cache  - Could not find template in cache, creating new one; id=[helloNeko.ftl[en_US,UTF-8,parsed] ]
+        1111 23 Feb 2015 17:32:12,309 [main] DEBUG freemarker.cache  - Compiling FreeMarker template helloNeko.ftl[en_US,UTF-8,parsed]  from /Users/emanalharbi/Desktop/nekomud/trunk/template/helloNeko.ftl
+           0 23 Feb 2015 17:44:20,677 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- Start nekomud: Mon Feb 23 17:44:20 MST 2015 --------
+         638 23 Feb 2015 17:44:21,315 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Entering [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: args = {java.io.PrintWriter@6d46b6db}
+         638 23 Feb 2015 17:44:21,315 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Exiting [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: result = null
+         638 23 Feb 2015 17:44:21,315 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- End nekomud: Mon Feb 23 17:44:21 MST 2015 ----------
+         641 23 Feb 2015 17:44:21,318 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- Start nekomud: Mon Feb 23 17:44:21 MST 2015 --------
+         806 23 Feb 2015 17:44:21,483 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Entering [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: args = {java.io.PrintWriter@6477eb97}
+         806 23 Feb 2015 17:44:21,483 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Exiting [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: result = null
+         806 23 Feb 2015 17:44:21,483 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- End nekomud: Mon Feb 23 17:44:21 MST 2015 ----------
+         810 23 Feb 2015 17:44:21,487 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- Start nekomud: Mon Feb 23 17:44:21 MST 2015 --------
+        1005 23 Feb 2015 17:44:21,682 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Entering [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: args = {java.io.PrintWriter@27e91a4d}
+        1005 23 Feb 2015 17:44:21,682 [main] TRACE net.sourceforge.nekomud.logging.MethodLogger  - Exiting [net.sourceforge.nekomud.ConfigurableMessageWriter.writeMessage]: result = null
+        1005 23 Feb 2015 17:44:21,682 [main] INFO  net.sourceforge.nekomud.HelloNekoMUD  - ---------- End nekomud: Mon Feb 23 17:44:21 MST 2015 ----------
+        1057 23 Feb 2015 17:44:21,734 [main] DEBUG freemarker.cache  - Could not find template in cache, creating new one; id=[helloNeko.ftl[en_US,UTF-8,parsed] ]
+        1060 23 Feb 2015 17:44:21,737 [main] DEBUG freemarker.cache  - Compiling FreeMarker template helloNeko.ftl[en_US,UTF-8,parsed]  from /Users/emanalharbi/Desktop/nekomud/trunk/template/helloNeko.ftl
